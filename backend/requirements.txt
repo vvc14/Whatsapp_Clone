@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+motor
+python-socketio
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+pydantic[email]
+aiofiles
+bcrypt==4.0.1
+google-auth
